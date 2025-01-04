@@ -1,10 +1,12 @@
 - Copyright © 2025 Musashino Software. All rights reserved.
 - Musashino Softwareは、USKey2JPの著作権を保持しています。
-- USKey2JPはフリーソフトウェアです。個人・商用を問わず、自由にご利用いただけます。
-- 動作に必要なすべてのファイルが含まれている場合に限り、どのような形式でも自由に複製・配布することが可能です。
-- 本ソフトウェアはテストを行っておりますが、ご使用のコンピュータ環境やプログラムの不具合などにより、問題が発生する可能性があります。万一、本ソフトウェアの利用により損害が生じた場合でも、作者は一切の責任を負いかねますのでご了承ください。
+- USKey2JPはバイナリ形式のみで無償提供しており、個人・商用を問わずご利用いただけます。
+- 本ソフトウェアのソースコードは公開されておらず、現状有姿で提供されるため、いかなる保証も付与されません。
+- テストは実施しておりますが、ご利用の環境やプログラムの不具合により問題が生じる可能性があります。
+- 作者はいかなる損害に対しても一切の責任を負いかねますので、ご了承ください。
 
 - Musashino Software retains the copyright of VirtualDeskID.
-- USKey2JP is free software. You may use it freely for both personal and commercial purposes.
-- As long as it includes all the files necessary for USKey2JP to run, you are free to copy and distribute it in any form.
-- Although the software has been tested, issues may still arise depending on your computer environment or program bugs. Please note that the author cannot be held responsible for any damages incurred as a result.
+- USKey2JP is provided free of charge in binary form only, for both personal and commercial use. 
+- You may copy and distribute it in any form, as long as all the necessary files for running USKey2JP are included.
+- Please note that the source code is not publicly available, and that this software is provided “AS IS” without any warranty.
+- While it has been tested, issues may still arise depending on your computing environment or program bugs. The author disclaims all liability for any damages that may result from its use.
