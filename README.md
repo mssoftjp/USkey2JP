@@ -27,6 +27,22 @@
 2. タスクトレイアイコンをクリックすることで、本ソフトのオン／オフを切り替えられます。
     - **オン**：US配列のエミュレートが有効になります。
     - **オフ**：通常の日本語配列として動作します。
+3. タスクトレイアイコンを右クリックするとメニューが表示されます。
+    - **一時停止／再開**
+    - **設定...**
+    - **バージョン情報／終了**
+
+### v2.0.0 で追加された機能
+
+- **設定の導入**（右クリックメニューの「設定...」）
+    - 一時停止／実行の切替ホットキー（未設定の場合は無効）
+    - 起動時の状態（動作中／一時停止）
+    - **Alt-IME**（左右 Alt をタップして IME を切り替え）
+        - 左 Alt：IME オフ
+        - 右 Alt：IME オン
+        - 「一時停止中も有効」の切替に対応
+- **設定ファイル**：実行ファイルと同じフォルダに、設定ファイルを保存します。
+- **表示品質の改善**：高DPI環境で文字やUIがぼやけにくいよう改善しました。
 
 
 ## 注意事項・制限
@@ -45,47 +61,3 @@
 
 本ソフトウェアの開発にあたり、大きなインスピレーションを与えていただいた [ULE4JIS](https://github.com/dezz/ULE4JIS) の開発者・コントリビューターの皆様に感謝いたします。
 
----
-
-## Overview
-
-**USkey2JP** is a software tool that enables the combined use of both Japanese-layout and English-layout keyboards. The name comes from "**US KEYboard TO Japanese Pc**." It is particularly helpful in situations where you cannot change your laptop’s default keyboard layout from Japanese (such as on many Japanese PCs), yet you wish to use an external English-layout keyboard.
-
-
-## Installation / Uninstallation
-
-### Installation
-
-1. Place the downloaded executable file (`uskey2jp.exe`) in any folder of your choice.
-2. Simply run the file to start using USkey2JP—no installation is required.
-3. If you want it to launch automatically when Windows starts, place a shortcut in the Startup folder or configure auto-start in another way.
-
-### Uninstallation
-
-- To uninstall, just delete the file you placed.
-- Since it does not modify the registry or install any drivers, no extra files remain on your system.
-
-
-## Usage
-
-1. When you run **USkey2JP**, an icon appears in the task tray.
-2. Click the task tray icon to toggle the software on or off:
-    - **On**: Emulates a US keyboard layout.
-    - **Off**: Operates as the standard Japanese keyboard layout.
-
-
-## Notes and Limitations
-
-### Supported Environments
-
-- Confirmed working on Windows 11 (untested on Windows 10).
-- Compiled for 64-bit CPUs (will not run on 32-bit CPUs). If there is demand, a 32-bit build may be considered.
-
-### Known Issues
-
-none
-
-
-## Acknowledgments
-
-We extend our gratitude to the developers and contributors of **ULE4JIS**, whose work provided significant inspiration for creating this software.
